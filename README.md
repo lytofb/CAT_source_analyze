@@ -1,3 +1,5 @@
 # CAT_source_analyze
 
 大众点评的监控系统CAT Client Server的源码分析
+
+帮助刚刚开始查看CAT源码的同学介绍一下CAT的部分核心结构
